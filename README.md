@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a full Redis database implementation in Java**
+ 🔭 I’m currently working on **a full Redis database implementation in Java , and completing a BitTorrent clone in Java**
  
  🌱 I’m currently learning **BlueTeam Level 1, OSCP, Redis**
 
